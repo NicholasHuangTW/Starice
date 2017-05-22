@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.octon.sip.im.starice</string>
+				<string>net.octon.sip.im.starapp</string>
 				<key>bundle-version</key>
 				<string>3.16.2</string>
 				<key>kind</key>
